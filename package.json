@@ -1,0 +1,11 @@
+{
+  "name": "Node-JS-Application",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "repository of node js application ",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "siege": "^0.2.0"
+  }
+}
